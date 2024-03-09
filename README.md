@@ -199,7 +199,8 @@ print(le.inverse_transform(x_single_prediction))
 ### Classification Report
 ![image](https://github.com/Nachiyarr/nn-classification/assets/113497340/c8fb9375-3ded-4a84-8f7f-002f88e651c7)
 ### Confusion Matrix
-![image](https://github.com/Nachiyarr/nn-classification/assets/113497340/e70088b7-f59c-4940-8aab-f6d3e99f1482)
+![image](https://github.com/Nachiyarr/nn-classification/assets/113497340/a88002b5-59b5-4537-be2d-f8e0d80155a3)
+
 ### New Sample Data Prediction
 ![image](https://github.com/Nachiyarr/nn-classification/assets/113497340/16cd4e68-be68-42c3-a2a7-ad27a270aaec)
 ## RESULT
